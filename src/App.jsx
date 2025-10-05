@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Analytics } from "@vercel/analytics/react"
 import { Github, Linkedin,Phone, Mail,Award,Calendar, ExternalLink, Database, BarChart3, FileSpreadsheet, Code2 } from 'lucide-react';
 
 export default function Portfolio() {
